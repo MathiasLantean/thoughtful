@@ -5,6 +5,7 @@ class PackageStack(Enum):
     STANDARD = 1
     SPECIAL = 2
     REJECTED = 3
+    INVALID = 4
 
 
 MAX_WIDTH = 150
